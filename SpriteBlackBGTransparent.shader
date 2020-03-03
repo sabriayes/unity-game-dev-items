@@ -1,4 +1,4 @@
-Shader "Custom/SpriteBlackBGTransparent.shader"
+Shader "Custom/SpriteBlackBGTransparent"
 {
     Properties {
         [PerRendererData] _MainTex("Sprite Texture", 2D) = "white" {}
